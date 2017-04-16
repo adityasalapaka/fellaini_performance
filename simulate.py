@@ -4,7 +4,7 @@
     of Fellaini's performance
     """
         # FELLAINI ERROR ;)
-        if result == 'win':    
+        if match_result == 'win':    
             print("FELLAINI IS OUTSTANDING")    
         else:
             print("FELLAINI, YOU USELESS PINE TREE")
